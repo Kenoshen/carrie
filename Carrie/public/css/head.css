@@ -1,0 +1,33 @@
+#head {
+	height: <head.height>;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#head img {
+	height: <head.height>;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#menu {
+	text-align: center;
+}
+
+#menu button{
+	-webkit-transition: all 0.25s ease-in-out;
+	-moz-transition: all 0.25s ease-in-out;
+	-ms-transition: all 0.25s ease-in-out;
+	-o-transition: all 0.25s ease-in-out;
+	transition: all 0.25s ease-in-out;
+	outline: none;
+	background-color: <head.background.color>;
+	/**/
+	color: <head.color>;
+}
+
+#menu button.activeTab{
+	font-size: <head.zoom>;
+}
