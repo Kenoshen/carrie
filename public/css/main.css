@@ -109,12 +109,12 @@ body{
 	margin: 0;
 	padding: 0;
 	border: 0;
-	background-image: url("/public/img/icons/gray-white-dot.svg");
+	background-image: url("/public/gray-white-dot.svg");
 	background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 
 #pager span.selectedPage{
-	background-image: url("/public/img/icons/gray-black-dot.svg");
+	background-image: url("/public/gray-black-dot.svg");
 }
