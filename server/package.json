@@ -1,0 +1,21 @@
+{
+  "name": "carrie-server",
+  "version": "1.0.0",
+  "description": "Web site for my carrie's portfolio",
+  "main": "server.app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kenoshen/carrie"
+  },
+  "author": "Michael Wingfield (Byte Break Studios LLC)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kenoshen/carrie/issues"
+  },
+  "homepage": "https://github.com/Kenoshen/carrie",
+  "dependencies": {
+  }
+}
