@@ -4,4 +4,8 @@ To run simply on your computer:
 
 	sudo npm install http-server -g
 
-	npm http-server -p 9000
+	# Dev
+	http-server -p 9000
+
+	# Prod
+	sudo nohup http-server -p 80 & >> /dev/null
