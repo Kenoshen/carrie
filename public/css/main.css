@@ -50,6 +50,10 @@ body{
 	opacity: 1;
 }
 
+.btn {
+	font-family: "Arial";
+}
+
 .prev-arrow, .next-arrow{
 	width: 100px;
 	height: 100%;
