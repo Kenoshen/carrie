@@ -1,0 +1,61 @@
+#resume #contact{
+	padding-top: 15px;
+	position: relative;
+	right: 0;
+	bottom: 0;
+	font-size: 20px;
+	float: right;
+}
+#resume #contact a{
+	float: right;
+}
+
+#resume #name{
+	position: relative;
+	font-size: 60px;
+	border-bottom: 4px solid <colors.lightpink>;
+}
+
+#resume #title{
+	border-bottom: 2px solid <colors.lightpink>;
+	margin-bottom: 20px;
+}
+
+#resume .sidebar{
+	border-left: 20px solid <colors.lightblue>;
+}
+
+#resume div{
+	display: inline-block;
+}
+
+#resume #profile{
+	width: 30%;
+	float: left;
+}
+
+#resume #education{
+	width: 69%;
+}
+
+#resume #education #edu{
+	width: 40%;
+}
+
+#resume #education #tech{
+	width: 59%;
+}
+
+#resume #experience{
+	width: 100%;
+}
+
+#resume #experience #sierra{
+	width: 49%;
+	float: left;
+}
+
+#resume #experience #arts{
+	width: 50%;
+	float: right;
+}

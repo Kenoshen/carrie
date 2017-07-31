@@ -1,0 +1,52 @@
+.print-book{
+	position: relative;
+}
+.print-book img{
+	width: 80%;
+	display: block;
+	position: relative;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
+.print-book div{
+	width: 70%;
+	text-align: right;
+	display: block;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	padding: 0 100px;
+}
+
+.print-sierra img{
+	width: 700px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.print-sierra h1, .print-sierra h2{
+	text-align: center;
+}
+
+.print-highlight div.imgcontainer{
+	width: 100%;
+	padding: 10px 40px 40px 40px;
+	background-color: <colors.lightblue>;
+}
+
+.print-highlight div.imgcontainer h1 {
+	color: white;
+	margin: 20px;
+}
+
+.print-highlight div.imgcontainer img {
+	width: 24%;
+}
+
+.print-highlight div{
+	padding: 0 40px;
+	width: 60%;
+	text-align: left;
+}

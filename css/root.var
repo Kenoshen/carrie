@@ -1,0 +1,17 @@
+{
+	"splash":{
+		"width": "50%"
+	},
+	"head": {
+		"height": "150px",
+		"zoom": "20px",
+		"color": "#AAA",
+		"background": {
+			"color": "white"
+		}
+	},
+	"colors": {
+		"lightblue": "#7AA3CC",
+		"lightpink": "#EBA1EB"
+	}
+}
